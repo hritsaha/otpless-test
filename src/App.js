@@ -8,7 +8,7 @@ function App() {
                 };
                }, []);
   return (
-    <div class="bb">
+    <div>
       <script type="text/javascript" src="https://otpless.com/auth.js" ></script>
       <p id="pp">This is a test for OTP-LESS</p>
     </div>
